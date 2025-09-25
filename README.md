@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anakesh892
 - 👀 I’m interested in learning about coding and related stuff
-- 🌱 I’m currently learning sql , pthon , html and css
+- 🌱 I’m currently learning sql , pthon , ML ,AI
 - 💞️ I’m looking to collaborate on new projects to learn
 - 📫 How to reach me anakesh892@gmail.com
 - 😄 Pronouns: He/Him
