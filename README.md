@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anakesh892
+- 👋 Hi, I’m Anakesh Naskar
 - 👀 I’m interested in learning about coding and related stuff
 - 🌱 I’m currently learning sql , pthon , ML ,AI
 - 💞️ I’m looking to collaborate on new projects to learn
